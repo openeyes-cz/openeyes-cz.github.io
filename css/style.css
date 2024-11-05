@@ -901,6 +901,11 @@ figure {
   padding: 60px 0 40px;
 }
 
+#header-banner {
+  background: #DCB9B1;
+}
+
+
 #footer p {
   color: white;
   font-size: 14px;
